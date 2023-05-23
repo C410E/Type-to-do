@@ -1,4 +1,4 @@
-# To do list com feito com typeScript
+# To do list feito com typeScript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
