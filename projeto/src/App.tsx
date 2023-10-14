@@ -69,9 +69,6 @@ function App() {
             handleEdit={editTask}
             />
            </div>
-          <div>
-           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3754429163716802"
-           crossorigin="anonymous"></script>
           </div>
         </main>
        
